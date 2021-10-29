@@ -2,7 +2,7 @@
 //  SwiftUIWebViewSampleApp.swift
 //  SwiftUIWebViewSample
 //
-//  Created by cmStudent on 2021/10/29.
+//  Created by naoki-mrnk on 2021/10/29.
 //
 
 import SwiftUI
