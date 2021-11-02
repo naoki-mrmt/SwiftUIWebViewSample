@@ -28,10 +28,10 @@ struct ContentView: View {
                     }
                 }) {
                     Text("Change")
-                }
+                } //: Button
                 Text(urlString)
-            }
+            } //: HStack
             WebView(url: URL(string: urlString)!)
-        }
+        } //: VStack
     }
 }
